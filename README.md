@@ -4,6 +4,10 @@
 
 [Ctarron discord](https://discord.gg/XYc4kzju6G) server for feedback/doubts.
 
+Also on [Planet Minecraft](https://www.planetminecraft.com/project/orbital-grove/)
+
+Also on [Minecraft Maps](https://www.minecraftmaps.com/51153-orbital-grove)
+
 ## Overview
 
 <details>
