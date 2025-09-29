@@ -1,0 +1,92 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "W",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:keybind_down",
+          "keybind": "key.forward",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "ctarron:key_block",
+            "tints": [
+              {
+                "type": "minecraft:constant",
+                "value": 4630738
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:empty"
+          }
+        }
+      },
+      {
+        "when": "A",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:keybind_down",
+          "keybind": "key.left",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "ctarron:key_block",
+            "tints": [
+              {
+                "type": "minecraft:constant",
+                "value": 13516864
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:empty"
+          }
+        }
+      },
+      {
+        "when": "S",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:keybind_down",
+          "keybind": "key.back",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "ctarron:key_block",
+            "tints": [
+              {
+                "type": "minecraft:constant",
+                "value": 15854980
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:empty"
+          }
+        }
+      },
+      {
+        "when": "D",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:keybind_down",
+          "keybind": "key.right",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "ctarron:key_block",
+            "tints": [
+              {
+                "type": "minecraft:constant",
+                "value": 6346606
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:empty"
+          }
+        }
+      }
+    ]
+  }
+}

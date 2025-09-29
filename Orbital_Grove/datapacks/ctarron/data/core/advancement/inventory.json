@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "inv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      }
+    }
+  },
+  "rewards": {
+    "function": "core:inventory_reset"
+  },
+  "sends_telemetry_event": false
+}

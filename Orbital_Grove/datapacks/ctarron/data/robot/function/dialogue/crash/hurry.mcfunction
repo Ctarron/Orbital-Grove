@@ -1,0 +1,1 @@
+tellraw @a [{"color":"gold","text":"<???> "},{"color":"white","translate":"robot.crash.2.5"}]

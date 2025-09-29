@@ -1,0 +1,1 @@
+$function core:interaction/function/$(function)

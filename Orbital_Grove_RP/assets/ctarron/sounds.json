@@ -1,0 +1,89 @@
+{
+  "lobby.blinds": {
+    "sounds": [
+      {
+        "name": "ctarron:block/blinds",
+        "stream": true,
+        "volume": 0.75
+      }
+    ]
+  },
+  "lobby.alarm": {
+    "sounds": [
+      {
+        "name": "ctarron:block/alarm",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+  "lobby.crash": {
+    "sounds": [
+      {
+        "name": "ctarron:block/crash",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+  "explosion.far": {
+    "sounds": [
+      {
+        "name": "ctarron:block/explosion_far",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+  "plant.bite": {
+    "sounds": [
+      {
+        "name": "ctarron:block/bite1",
+        "stream": true,
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/bite2",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "plant.branch": {
+    "sounds": [
+      {
+        "name": "ctarron:block/branch-drag",
+        "stream": true,
+        "volume": 0.75,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "fall": {
+    "sounds": [
+      {
+        "name": "ctarron:block/fall",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "tube": {
+    "sounds": [
+      {
+        "name": "ctarron:block/tube",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+  "rewind": {
+    "sounds": [
+      {
+        "name": "ctarron:block/rewind",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  }
+}

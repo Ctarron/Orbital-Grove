@@ -1,0 +1,3 @@
+execute positioned 44.0 34.00 -131.0 as @a[dx=0,dy=0,dz=0] positioned 44.5 34.00 -131.5 as @n[type=item_display,tag=aj.planta.root,distance=..1] rotated 0 0 run return run function room:j3/bite
+execute positioned 43.0 34.00 -132.0 as @a[dx=0,dy=0,dz=0] positioned 44.5 34.00 -131.5 as @n[type=item_display,tag=aj.planta.root,distance=..1] rotated 90 0 run return run function room:j3/bite
+execute positioned 44.0 34.00 -133.0 as @a[dx=0,dy=0,dz=0] positioned 44.5 34.00 -131.5 as @n[type=item_display,tag=aj.planta.root,distance=..1] rotated 180 0 run return run function room:j3/bite

@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "",
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "dialog.instructions",
+        "fallback": "INSTALL THE RESOURCE PACK"
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "dialog.instructions.text",
+        "fallback": "Set the ingame language to English \n\nCambia el idioma del juego a Español.",
+        "bold": false
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": [
+        {
+          "translate": "dialog.socials",
+          "italic": true,
+          "underlined": true,
+          "click_event": {
+            "action": "open_url",
+            "url": "https://ctarron.carrd.co/"
+          },
+          "hover_event": {
+            "action": "show_text",
+            "value": "https://ctarron.carrd.co/"
+          }
+        }
+      ],
+      "width": 300
+    }
+  ],
+  "inputs": [],
+  "pause": false,
+  "actions": [
+    {
+      "label": {
+        "text": "OK"
+      }
+    }
+  ]
+}

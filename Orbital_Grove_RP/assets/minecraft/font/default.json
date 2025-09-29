@@ -1,0 +1,32 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/black.png",
+      "ascent": 2048,
+      "height": 4096,
+      "chars": [
+        "\uE022"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/captcha.png",
+      "ascent": 0,
+      "height": 64,
+      "chars": [
+        "\uE023"
+      ]
+    }
+    ,
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/white.png",
+      "ascent": 2048,
+      "height": 4096,
+      "chars": [
+        "\uE024"
+      ]
+    }
+  ]
+}

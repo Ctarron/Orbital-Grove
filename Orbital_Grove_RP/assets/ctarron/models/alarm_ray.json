@@ -1,0 +1,41 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ctarron:block/alarm",
+		"particle": "ctarron:block/alarm"
+	},
+	"elements": [
+		{
+			"from": [8, -5, 8],
+			"to": [31, 15, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -5, 8]},
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 16, 16, 8], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-15, -5, 8],
+			"to": [8, 15, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -5, 8]},
+			"faces": {
+				"north": {"uv": [8, 16, 16, 8], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 8, 16, 16], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"scale": [2.71, 1.46, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [9, -5, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

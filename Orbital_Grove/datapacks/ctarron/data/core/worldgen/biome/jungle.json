@@ -1,0 +1,38 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 0,
+    "fog_color": 1789978,
+    "water_color": 813122,
+    "water_fog_color": 3755837,
+    "music": [
+      {
+        "data": {
+          "max_delay": 200,
+          "min_delay": 100,
+          "replace_current_music": true,
+          "sound": "music.overworld.jungle"
+        },
+        "weight": 1
+      }
+    ],
+    "particle": {
+      "options": {
+        "type": "minecraft:spore_blossom_air"
+      },
+      "probability": 0.001
+    },
+    "grass_color_modifier": "dark_forest"
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": [],
+  "features": []
+}

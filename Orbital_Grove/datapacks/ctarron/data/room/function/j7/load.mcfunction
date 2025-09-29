@@ -1,0 +1,1 @@
+schedule function room:j7/tick 2t

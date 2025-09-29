@@ -1,0 +1,1 @@
+$tellraw @a [{"color":"gold","text":"<???> "},{"color":"white","translate":"ctarron.results","with":["$(hours)","$(mins)","$(secs)","$(kurons)"]}]

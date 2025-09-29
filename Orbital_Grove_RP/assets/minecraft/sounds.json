@@ -1,0 +1,111 @@
+{
+  "music.creative":{
+    "replace": true,
+    "sounds": [
+    ]
+  },
+  "music.game":{
+    "replace": true,
+    "sounds": []
+  },
+  "music.under_water":{
+    "replace": true,
+    "sounds": []
+  },
+  "ambient.cave": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.allay.ambient_with_item": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ctarron:block/robot0",
+        "pitch": 1.25,
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot1",
+        "pitch": 1.25,
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot2",
+        "pitch": 1.25,
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot3",
+        "pitch": 1.25,
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot4",
+        "pitch": 1.25,
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot5",
+        "pitch": 1.25,
+        "volume": 1.0
+      }
+    ],
+    "subtitle": "subtitles.entity.allay.ambient_with_item"
+  },
+  "entity.allay.ambient_without_item": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "ctarron:block/robot1",
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot2",
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot3",
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot4",
+        "volume": 1.0
+      },
+      {
+        "name": "ctarron:block/robot5",
+        "volume": 1.0
+      }
+    ],
+    "subtitle": "subtitles.entity.allay.ambient_without_item"
+  },
+  "entity.allay.death": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.allay.hurt": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.allay.item_given": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.allay.item_taken": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.allay.item_thrown": {
+    "replace": true,
+    "sounds": []
+  },
+  "music.overworld.jungle": {
+    "sounds": [
+      {
+        "name": "minecraft:music/senescence",
+        "stream": true,
+        "volume": 0.7
+      }
+    ],
+    "replace": true
+  }
+}

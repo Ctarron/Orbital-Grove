@@ -1,0 +1,20 @@
+{
+  "values": [
+    "room:lobby/ladder_check",
+    "room:lobby/blinds/check",
+    "room:lobby/blinds/open/1",
+    "room:lobby/blinds/open/2",
+    "room:lobby/blinds/open/3",
+    "room:lobby/alert",
+    "room:lobby/crash/check",
+    "room:lobby/crash/start",
+    "room:lobby/crash/1",
+    "room:lobby/crash/2",
+    "robot:dialogue/crash/1",
+    "robot:dialogue/crash/2",
+    "robot:dialogue/crash/3",
+    "robot:dialogue/crash/4",
+    "robot:dialogue/crash/5",
+    "robot:dialogue/crash/6"
+  ]
+}

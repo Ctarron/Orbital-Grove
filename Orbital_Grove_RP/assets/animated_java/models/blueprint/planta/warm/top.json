@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:blueprint/planta/top",
+	"textures": {
+		"2": "animated_java:blueprint/planta/warm_bottom",
+		"3": "animated_java:blueprint/planta/warm_top"
+	}
+}

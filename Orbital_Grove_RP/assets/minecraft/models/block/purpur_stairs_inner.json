@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/moss_block_big",
+    "side": "minecraft:block/moss_block_big",
+    "top": "minecraft:block/moss_block_big"
+  }
+}

@@ -1,0 +1,1 @@
+$summon allay ~ ~ ~ {DeathTime:20,attributes:[{id:"minecraft:follow_range",base:2048}],Team:"player",Brain:{memories:{"minecraft:liked_player":{value:$(uuid)}}},Passengers:[{id:"minecraft:interaction",width:0.36f,height:-0.61f,Tags:["dynamic","robot","rider"]},{id:"minecraft:interaction",width:0.36f,height:0.01f,Tags:["dynamic","robot","rider"]}]}

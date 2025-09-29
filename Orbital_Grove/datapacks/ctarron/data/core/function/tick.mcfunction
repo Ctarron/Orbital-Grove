@@ -1,0 +1,1 @@
+execute as @e[type=interaction,tag=rider,predicate=core:is_not_passenger] run kill @s

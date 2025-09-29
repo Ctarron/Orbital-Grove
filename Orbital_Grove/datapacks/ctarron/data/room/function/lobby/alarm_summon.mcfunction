@@ -1,0 +1,2 @@
+summon item_display ~ ~1.3375 ~ {Tags:[dynamic],billboard:"fixed",item:{id:"minecraft:lightning_rod",count:1,components:{"minecraft:item_model":"ctarron:alarm","minecraft:custom_model_data":{strings:["bulb"]}}}}
+summon item ~ ~ ~ {NoGravity:1b,Age:-32768,PickupDelay:32767,Tags:["dynamic"],Item:{id:"minecraft:ice",count:1,components:{"minecraft:item_model":"ctarron:alarm","minecraft:custom_model_data":{strings:["ray"]}}}}

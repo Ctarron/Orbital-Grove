@@ -1,0 +1,231 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core0",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 0.0
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core1",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 0.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core2",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 1.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core3",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 2.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core4",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 3.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core5",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 4.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core6",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 5.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core7",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 6.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core8",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 7.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core9",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 8.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core10",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 9.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core11",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 10.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core12",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 11.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core13",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 12.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core14",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 13.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core15",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 14.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctarron:core/core16",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": 5598748
+            }
+          ]
+        },
+        "threshold": 15.5
+      }
+    ],
+    "property": "minecraft:compass",
+    "scale": 16.0,
+    "target": "recovery"
+  }
+}

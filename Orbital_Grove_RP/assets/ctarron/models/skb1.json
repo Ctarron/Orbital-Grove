@@ -1,0 +1,6 @@
+{
+    "parent": "ctarron:skbt",
+	"textures": {
+		"all": "ctarron:block/skb/skb1"
+	}
+}
