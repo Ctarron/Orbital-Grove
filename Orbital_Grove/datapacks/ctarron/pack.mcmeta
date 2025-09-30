@@ -7,7 +7,9 @@
 			{
 				"text": "By Ctarron"
 			}
-		]
+		],
+    "min_format": [88, 0],
+    "max_format": [88, 0]
 	},
 	"filter": {
 	  "block": [
@@ -16,7 +18,5 @@
 		  "path": "advancement"
 		}
 	  ]
-	},
-    "min_format": 88,
-    "max_format": 88
+	}
 }
