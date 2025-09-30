@@ -1,6 +1,5 @@
 {
 	"pack": {
-		"pack_format": 71,
 		"description": [
 			{
 				"text": "Orbital Grove\n"
@@ -17,5 +16,7 @@
 		  "path": "advancement"
 		}
 	  ]
-	}
+	},
+    "min_format": 88,
+    "max_format": 88
 }

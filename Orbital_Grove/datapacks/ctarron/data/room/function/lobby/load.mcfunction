@@ -14,8 +14,7 @@ kill @e[type=allay]
 
 summon text_display 15.0625 -46.5 69.5 {Tags:["dynamic"],text:{"color":"black","fallback":"You should install the resource pack","translate":"ctarron.lobby.approaching"},background:0, transformation: {left_rotation: [0.0f, 0.7071068f, 0.0f, 0.7071068f], right_rotation: [0.0f, 0.0f, 0.0f, 1.0f], scale: [0.75, 0.75, 0.75], translation: [0.0f, 0.0f, 0.0f]}}
 
-summon minecraft:item_display 16.5 -46.5 53.5 {Tags:[dynamic],item: {components: {"minecraft:item_model": "ctarron:ctarron"}, count: 1, id: "minecraft:lightning_rod"}, transformation: {left_rotation: [0.0f, 0.7071068f, 0.0f, 0.7071068f], right_rotation: [0.0f, 0.0f, 0.0f, 1.0f], scale: [0.93749994f, 0.93750006f, 0.93749994f], translation: [0.0f, 0.0f, 0.0f]}}
-summon minecraft:text_display 16.5 -44.875 53.5 {Tags:[dynamic],alignment: "center", background: 1073741824, billboard: "vertical", default_background: 0b, line_width: 200, see_through: 1b, shadow: 0b, text: "Ctarron", view_range: 0.01f}
+summon mannequin 16.5 -47 53.5 {Tags:[dynamic], CustomNameVisible:0b,profile:"Ctarron", immovable:true,hide_description:true,Rotation:[-90F,0F],DeathTime:19}
 
 schedule function room:lobby/blinds/check 2t
 

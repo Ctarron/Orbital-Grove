@@ -1,4 +1,4 @@
-#version 150
+#version 330
 
 #moj_import <minecraft:light.glsl>
 #moj_import <minecraft:fog.glsl>
@@ -12,8 +12,8 @@ in vec2 UV1;
 in ivec2 UV2;
 in vec3 Normal;
 
-uniform sampler2D Sampler2;
 uniform sampler2D Sampler0;
+uniform sampler2D Sampler2;
 
 
 out float sphericalVertexDistance;

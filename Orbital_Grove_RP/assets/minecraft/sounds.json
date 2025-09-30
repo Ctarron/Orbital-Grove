@@ -107,5 +107,25 @@
       }
     ],
     "replace": true
+  },
+  "ambient.basalt_deltas.loop": {
+    "sounds": [
+      {
+        "name": "ctarron:block/og_core",
+        "stream": true,
+        "volume": 1
+      }
+    ],
+    "replace": true
+  },
+  "ambient.warped_forest.loop": {
+    "sounds": [
+      {
+        "name": "ctarron:block/og_shipambience",
+        "stream": true,
+        "volume": 1
+      }
+    ],
+    "replace": true
   }
 }

@@ -12,8 +12,24 @@
     {
       "type": "minecraft:plain_message",
       "contents": {
-        "translate": "dialog.instructions.text",
-        "fallback": "Set the ingame language to English \n\nCambia el idioma del juego a Español.",
+        "translate": "dialog.instructions.text1",
+        "fallback": "Set the ingame language to English.",
+        "bold": false
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "dialog.instructions.text.mods",
+        "fallback": "Dont play with mods",
+        "bold": true
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "dialog.instructions.text2",
+        "fallback": "Cambia el idioma del juego a Español.",
         "bold": false
       }
     },

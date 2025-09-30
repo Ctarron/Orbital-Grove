@@ -1,6 +1,5 @@
 {
 	"pack": {
-		"pack_format": 63,
 		"description": [
 			{
 				"text": "Orbital Grove\n"
@@ -8,6 +7,8 @@
 			{
 				"text": "By Ctarron"
 			}
-		]
+		],
+    "min_format": 69,
+    "max_format": 69
 	}
 }

@@ -1,5 +1,5 @@
-function room:load {room:spawn}
 tag @a remove cleared
+function room:load {room:spawn}
 kill @a
 kill @e[type=allay]
 advancement revoke @a everything
@@ -11,4 +11,3 @@ scoreboard players set .kurons stats 0
 gamemode adventure @a
 gamerule sendCommandFeedback false
 gamerule reducedDebugInfo true
-tag @a remove drowned
