@@ -1,12 +1,11 @@
 # Orbital-Grove
-[![Downloads](https://img.shields.io/github/downloads/Ctarron/Orbital-Grove/total)](https://github.com/Ctarron/Orbital-Grove/releases)
-[![Latest Release](https://img.shields.io/github/v/release/Ctarron/Orbital-Grove)](https://github.com/Ctarron/Orbital-Grove/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Ctarron/Orbital-Grove?label=version&color=green)](https://github.com/Ctarron/Orbital-Grove/releases/latest)
 
 [Ctarron discord](https://discord.gg/XYc4kzju6G) server for feedback/doubts.
 
-Also on [Planet Minecraft](https://www.planetminecraft.com/project/orbital-grove/)
-
 Also on [Minecraft Maps](https://www.minecraftmaps.com/51153-orbital-grove)
+
+Also on [Planet Minecraft](https://www.planetminecraft.com/project/orbital-grove/)
 
 ## Overview
 
@@ -31,7 +30,7 @@ Orbital Grove es un mapa de aventuras para un solo jugador que combina historia 
 Para jugar en español, el idioma del juego debe de estar en español.
 </details>
 
-## Game Details
+## Details
 
 - **Duration**: 15-20 minute adventure
 - **Minecraft Version**: 1.21.8 (Vanilla)
@@ -39,8 +38,8 @@ Para jugar en español, el idioma del juego debe de estar en español.
 
 ## Downloads
 
-- **Latest Release**: [Download Here](https://github.com/Ctarron/Orbital-Grove/releases/latest)
-- **All Releases**: [View All Versions](https://github.com/Ctarron/Orbital-Grove/releases)
+[![Map](https://img.shields.io/github/downloads/Ctarron/Orbital-Grove/Orbital_Grove.zip?label=Map%20Downloads&color=blue&style=for-the-badge)](https://github.com/Ctarron/Orbital-Grove/releases/latest)[![ResourcePack](https://img.shields.io/github/downloads/Ctarron/Orbital-Grove/Orbital_Grove_RP.zip?label=RP%20Downloads&color=red&style=for-the-badge)](https://github.com/Ctarron/Orbital-Grove/releases/latest)\
+[![MinecraftMaps](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fwww.minecraftmaps.com%2F51153-orbital-grove&search=%3Cspan%20class%3D%22jd-download-stat-value%22%3E(%5B%5Cd%2C%5D%2B)%3C%2Fspan%3E&replace=%241&label=Minecraft%20Maps&color=%251b8738&style=for-the-badge)](https://www.minecraftmaps.com/index.php?option=com_jdownloads&view=download&id=51153:orbital-grove)
 
 ## Available Translations
 
