@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:notice",
+  "title": "",
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "ctarron.captcha.text",
+        "fallback": "Prove you aren't a robot"
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "",
+        "font": "minecraft:default"
+      },
+      "width": 600
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": " "
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": " "
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": " "
+    }
+  ],
+  "inputs": [
+    {
+      "type": "minecraft:text",
+      "key": "captcha",
+      "label": "",
+      "label_visible": false
+    }
+  ],
+  "can_close_with_escape": false,
+  "action": {
+    "label": {
+      "translate": "gui.verify"
+    }
+  }
+}
