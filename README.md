@@ -47,3 +47,4 @@ Para jugar en español, el idioma del juego debe de estar en español.
 - 🇪🇸 Spanish
 - 🇯🇵 Japanese (by Tainoji)
 - 🇨🇳 Chinese (by Ylong)
+- 🇰🇷 Korean (by TheOnlyMann)
